@@ -1,7 +1,7 @@
-Youtube Downloader
-===================
+MP3 Downloader
+==============
 
-Download bundle of songs in mp3 format easily.
+Download bundle of songs in mp3 format easily. Uses youtube internally.
 
 You would need to register below to get a google developer API key
 
@@ -15,6 +15,9 @@ Use `./install.sh` or `./install_mac.sh` depending on your os
 
 Usage
 =====
+
+![how I use it](http://g.recordit.co/C4mOP6hZlO.gif)
+
 ```
 python main.py dev_key --file file_name
 python main.py dev_key -- song song_name
